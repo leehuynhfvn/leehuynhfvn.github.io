@@ -1,4 +1,7 @@
 ---
+layout: post
+comments: true
+categories: web-server
 author:
     name: Linode
     email: docs@linode.com
