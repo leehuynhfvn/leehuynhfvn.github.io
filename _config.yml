@@ -9,6 +9,7 @@ description: Leehuynhfvn's Ideas & Blogs
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: https://leehuynhfvn.github.io
 # twitter_username: jekyllrb
 github_username: leehuynhfvn
 permalink: /:year/:month/:day/:title/
@@ -22,7 +23,7 @@ permalink: /:year/:month/:day/:title/
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 disqus_shortname: huynhl
-disqus_url: "https://github.com/leehuynhfvn/my-wiki"
+disqus_url: "https://leehuynhfvn.github.io"
 #########################################
 
 # Build settings
